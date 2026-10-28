@@ -1,1 +1,3 @@
 *.class
+.cph-ng/*
+.cph-ng
